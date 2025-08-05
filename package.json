@@ -1,12 +1,12 @@
 {
-  "name": "Your-Own-Bot",
+  "name": "MIAN-MD-BOT",
   "version": "4.5.0",
-  "description": "A WhatsApp Bot Created By ArslanMD Official",
+  "description": "A WhatsApp Bot Created By MIAN-HACKER",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name Your-Own-Bot",
-    "stop": "pm2 stop Your-Own-Bot",
-    "restart": "pm2 restart Your-Own-Bot"
+    "start": "pm2 start index.js --deep-monitoring --attach --name MIAN-MD-BOT",
+    "stop": "pm2 stop MIAN-MD-BOT",
+    "restart": "pm2 restart MIAN-MD-BOT"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "npm:baileys-pro@latest",
